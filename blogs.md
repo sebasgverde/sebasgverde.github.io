@@ -2,6 +2,7 @@
 ---
 layout: default
 ---
+
 <div class="pub">
 <a href='https://sebasgverde.github.io/basicMLMusicDSP/' target="_blank"  style="font-size: 25px; text-decoration: none">Machine Learning in Music DSP:</a>
 <br/>
