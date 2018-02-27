@@ -1,19 +1,25 @@
 <ul class="posts">
+   <p>
    <div class="pub">
-   <a href='https://sebasgverde.github.io/basicMLMusicDSP/' target="_blank"  style="font-size: 25px; text-decoration: none">Machine Learning in Music DSP:</a>
+   <a href='https://sebasgverde.github.io/basicMLMusicDSP/' target="_blank"  style="font-size: 25px; text-decoration: none">Using Machine Learning in Music DSP</a>
    <br/>
-    jupyter python notebook with the basics for machine learning in music DSP ...<a href='https://sebasgverde.github.io/basicMLMusicDSP/' target="_blank">[Read more]</a>
+    The field of music DSP is a passionate world where converge many areas like physics, math, engineering, music and computer science. The technics can be used in music information retrieval to make really interesting applications. Besides, the last years we have seen a massive interest in general for machine learning ...<a href='https://sebasgverde.github.io/basicMLMusicDSP/' target="_blank">[Read more]</a>
    </div>
+   </p>
 
+   <p>
    <div class="pub">
-   <a href='https://sebasgverde.github.io/musicMidiProbabilisticGenerator/' target="_blank"  style="font-size: 25px; text-decoration: none">Music Midi Probabilistic Generator:</a>
+   <a href='https://sebasgverde.github.io/musicMidiProbabilisticGenerator/' target="_blank"  style="font-size: 25px; text-decoration: none">Generation of Symbolic with a Probabilistic Generator</a>
    <br/>
-   A jupyter python notebook with a probabilistic generative model for music based in Markov chains ...<a href='https://sebasgverde.github.io/musicMidiProbabilisticGenerator/' target="_blank">[Read more]</a>
+   A particular kind of machine learning model with the capacity to generate information is known as a generative model. There are many variations, but all they focus on learning patterns in a dataset to then produce data with a given seed. In this case, I will use a very simple generative probabilistic model called n-gram to generate midi sequences of music ...<a href='https://sebasgverde.github.io/musicMidiProbabilisticGenerator/' target="_blank">[Read more]</a>
    </div>
+   </p>
 
+   <p>
    <div class="pub">
-   <a href='https://www.linkedin.com/pulse/medellin-artistic-styles-transfer-style-deep-learning-sebasti%C3%A1n/' target="_blank"  style="font-size: 25px; text-decoration: none">Medellin in artistic styles:</a>
+   <a href='https://www.linkedin.com/pulse/medellin-artistic-styles-transfer-style-deep-learning-sebasti%C3%A1n/' target="_blank"  style="font-size: 25px; text-decoration: none">Medellin in artistic styles (Transfer style with deep learning)</a>
    <br/>
-   Transfer style with deep learning ...<a href='https://www.linkedin.com/pulse/medellin-artistic-styles-transfer-style-deep-learning-sebasti%C3%A1n/' target="_blank">[Read more]</a>
+   I was experimenting and playing a little bit with neural networks and got some interesting outputs using transfer style with some famous artworks and a beautiful image of my city ...<a href='https://www.linkedin.com/pulse/medellin-artistic-styles-transfer-style-deep-learning-sebasti%C3%A1n/' target="_blank">[Read more]</a>
    </div>
+   </p>
 </ul>
