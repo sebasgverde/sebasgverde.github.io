@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Music
 permalink: /music/
 description: What I do the other half of my life.
