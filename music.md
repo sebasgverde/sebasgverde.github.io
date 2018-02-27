@@ -56,14 +56,13 @@ description: What I do the other half of my life.
         {% if mus.img %}
         <img class="thumbnail" src="{{ mus.img | prepend: site.baseurl | prepend: site.url }}"/>
         {% else %}
-        <div class="thumbnail blankbox">
+        <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
             <h1>{{ mus.title }}</h1>
             <br/>
             <p>{{ mus.description }}</p>
         </span>
-        </div>
         </a>
     </div>
 </div>
