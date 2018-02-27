@@ -1,3 +1,9 @@
+---
+layout: page
+title: 
+permalink: /
+---
+
 Research Interests: Machine Learning,  Music DPS, Parallel and Distributed Computing, Computer Music, Music Production
 
 I am an enthusiast of computer sciences, I have special interest in two areas: distributed systems and Machine learning.
