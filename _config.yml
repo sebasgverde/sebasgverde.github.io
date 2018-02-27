@@ -19,16 +19,16 @@ avatar: https://sebasgverde.github.io/images/profile.jpg
 footer-links:
   dribbble:
   email: sgarci18@eafit.edu.co
-  facebook: https://www.facebook.com/sebasmusica/
+  facebook: sebasmusica
   flickr:
-  github: https://github.com/sebasgverde/
+  github: sebasgverde
   instagram:
-  linkedin: www.linkedin.com/in/sebastián-garcía-valencia-5913a3ba
+  linkedin: sebastián-garcía-valencia-5913a3ba
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: https://www.youtube.com/channel/UCI7GUA0TNB0OKZSDjSv-itg # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCI7GUA0TNB0OKZSDjSv-itg # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
