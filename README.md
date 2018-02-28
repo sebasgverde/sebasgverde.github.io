@@ -1,3 +1,14 @@
+
+this was a page i did using  the jekill now and also ideas from https://github.com/alshedivat/al-folio/, this second repo i think has a lot of interesting stuff.
+
+one was the idea they use for projects and i used in "music", i achive tha it worked cause i think coulb be very useful, but for the case of music i think not, so i will change that thing of the labels not visible until mouse is over it and also use circles instead blankbox.
+
+
+
+
+
+
+#-------------------------------------------------------------------------------
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
 # Jekyll Now
