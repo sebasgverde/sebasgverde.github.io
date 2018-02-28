@@ -1,8 +1,8 @@
 ---
 layout: page
-title: music
+title:
 permalink: /music/
-description: What I do the other half of my life.
+description: "Every form of art is full of science, and every science is an art."
 ---
 
 {% for project in site.music %}
