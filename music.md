@@ -46,3 +46,4 @@ description: "Every form of art is full of science, and every science is an art.
 {% endif %}
 
 {% endfor %}
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/482362732&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
