@@ -4,7 +4,7 @@ title:
 permalink: /
 ---
 
-Research Interests: Machine Learning, Music DPS, Parallel and Distributed Computing, Computer Music
+Research Interests: Machine Learning, Music DSP, Parallel and Distributed Computing, Computer Music
 
 I am an enthusiast of computer sciences with a particular interest in Machine learning and distributed systems. In my bachelor in computer science, I focused in the development of distributed systems, back end, concurrency, OS, databases and the development of algorithms. I am finishing my M.Sc in Engineering (machine learning) in the EAFIT University with studies in the German university TU Ilmenau where I approved the emphasis line in machine learning of the M.Sc in computer science and researched about [evolutionary heuristics](https://sebasgverde.github.io/evolutiveSudoku/).
 
