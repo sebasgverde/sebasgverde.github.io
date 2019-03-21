@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Discography
-description: All my songs in a playlist
+title: Videos
+description: Wanna watch me play?
 img:
-redirect: https://www.youtube.com/watch?v=VO2LMJ1e-pM&list=PLNJrQjuZcjj9UI1ewFEtOlqzV6B5QCLQJ
+redirect: https://youtube.com/channel/UCI7GUA0TNB0OKZSDjSv-itg
 --- 
 
