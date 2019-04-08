@@ -2,7 +2,7 @@
 layout: page
 title:
 permalink: /music/
-description: "Every form of art is full of science, and every science is an art."
+description: "Every form of art is full of science, every science is also art."
 ---
 
 {% for project in site.music %}
