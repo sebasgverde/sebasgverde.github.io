@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title:
-permalink: /
+permalink: /bio/
 ---
 
 Research Interests: Machine Learning, Music DSP, Parallel and Distributed Computing, Computer Music
