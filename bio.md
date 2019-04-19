@@ -6,7 +6,7 @@ permalink: /bio/
 
 Research Interests: Machine Learning, Music DSP, Parallel and Distributed Computing, Computer Music, Logic, Formal Systems, among others.
 
-I grow up in in the wild but interesting city of Medellin (Colombia), since young I was always curious about how things work, therefore was easy and natural to fall in love with science and engineering. At the same time, thanks to the powerful progressions and virtuous voices, soon I fall in love with rock and metal and later, with music in general.
+I grew up in in the wild but interesting city of Medellin (Colombia), since young I was always curious about how things work, therefore was easy and natural to fall in love with science and engineering. At the same time, thanks to the powerful progressions and virtuous voices, soon I fall in love with rock and metal and later, with music in general.
 
 In my bachelor in computer science, I had the opportunity of learning about awesome topics as logic, formal systems, computability theory and distributed systems. It is hard to describe how awesome was to study all these crazy ideas and being able to materialize it in computer programmes, always playing a pair of guitar riffs between chapter and chapter.
 
