@@ -17,6 +17,15 @@
 
    <p>
    <div class="pub">
+   <a href='https://medium.com/@sebasgverde/la-convergencia-de-la-ciencia-y-el-arte-en-el-mundo-moderno-fc71bb0d03e4' target="_blank"  style="font-size: 25px; text-decoration: none">La convergencia de la ciencia y el arte en el mundo moderno</a>
+   <br/>
+   Desde tiempos inmemoriales se ha considerado la creación artística como algo exclusivo a los seres humanos. Sin importar a cuál de las manifestaciones artísticas se esté refiriendo, ya sea componer una pieza musical, escribir una poesía, darle forma a una escultura, pintar un cuadro o imaginar la historia de una película; cuando se piensa en ello ... <a href='https://medium.com/@sebasgverde/la-convergencia-de-la-ciencia-y-el-arte-en-el-mundo-moderno-fc71bb0d03e4' target="_blank">[Read more]</a>
+   </div>
+   </p>
+
+
+   <p>
+   <div class="pub">
    <a href='https://www.linkedin.com/pulse/medellin-artistic-styles-transfer-style-deep-learning-sebasti%C3%A1n/' target="_blank"  style="font-size: 25px; text-decoration: none">Medellin in artistic styles (Transfer style with deep learning)</a>
    <br/>
    I was experimenting and playing a little bit with neural networks and got some interesting outputs using transfer style with some famous artworks and a beautiful image of my city ... <a href='https://www.linkedin.com/pulse/medellin-artistic-styles-transfer-style-deep-learning-sebasti%C3%A1n/' target="_blank">[Read more]</a>
