@@ -1,3 +1,4 @@
+
 <ul class="posts">
    <p>
    <div class="pub">
@@ -17,9 +18,9 @@
 
    <p>
    <div class="pub">
-   <a href='https://medium.com/@sebasgverde/la-convergencia-de-la-ciencia-y-el-arte-en-el-mundo-moderno-fc71bb0d03e4' target="_blank"  style="font-size: 25px; text-decoration: none">La convergencia de la ciencia y el arte en el mundo moderno</a>
+   <a href='https://medium.com/@sebasgverde/the-convergence-of-science-and-art-484638902651' target="_blank"  style="font-size: 25px; text-decoration: none">The convergence of science and art</a>
    <br/>
-   Desde tiempos inmemoriales se ha considerado la creación artística como algo exclusivo a los seres humanos. Sin importar a cuál de las manifestaciones artísticas se esté refiriendo, ya sea componer una pieza musical, escribir una poesía, darle forma a una escultura, pintar un cuadro o imaginar la historia de una película; cuando se piensa en ello ... <a href='https://medium.com/@sebasgverde/la-convergencia-de-la-ciencia-y-el-arte-en-el-mundo-moderno-fc71bb0d03e4' target="_blank">[Read more]</a>
+   Artistic creation has been always considered exclusive to humans. Regardless if it is composing a piece of music, writing a poem, make a sculpture, painting a picture or imagining the story of a film; when one think about it, what comes to the mind are activities that require a cognitive power, that only people have, and that can only ... <a href='https://medium.com/@sebasgverde/the-convergence-of-science-and-art-484638902651' target="_blank">[Read more]</a>
    </div>
    </p>
 
@@ -30,5 +31,12 @@
    <br/>
    I was experimenting and playing a little bit with neural networks and got some interesting outputs using transfer style with some famous artworks and a beautiful image of my city ... <a href='https://www.linkedin.com/pulse/medellin-artistic-styles-transfer-style-deep-learning-sebasti%C3%A1n/' target="_blank">[Read more]</a>
    </div>
+   </p>
+
+  # Videos
+
+   ## Ai and Art with Alianza CAOBA (Spanish)
+   <p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lBPYFu_kWJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </p>
 </ul>
