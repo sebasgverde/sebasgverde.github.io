@@ -32,6 +32,7 @@
    I was experimenting and playing a little bit with neural networks and got some interesting outputs using transfer style with some famous artworks and a beautiful image of my city ... <a href='https://www.linkedin.com/pulse/medellin-artistic-styles-transfer-style-deep-learning-sebasti%C3%A1n/' target="_blank">[Read more]</a>
    </div>
    </p>
+</ul>
 
   # Videos
 
@@ -39,4 +40,3 @@
    <p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lBPYFu_kWJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </p>
-</ul>
