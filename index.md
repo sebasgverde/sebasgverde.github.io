@@ -13,4 +13,5 @@ I'm always happy to work with new technologies, learn new things and participate
 
 [AIVA Technologies](https://www.aiva.ai/): Check the music that an artificial intelligence can compose and how it can help you to compose your own music.
 
+
 [Bussines card Riddle solution](https://sebasgverde.github.io/riddle_solution)
