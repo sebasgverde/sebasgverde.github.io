@@ -22,7 +22,7 @@ footer-links:
   facebook: sebasmusica
   flickr:
   github: sebasgverde
-  instagram:
+  instagram: sebasgverde
   linkedin: sebasgverde
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -53,7 +53,7 @@ collections:
   music:
     output: true
     permalink: /music/:path/
-    
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
