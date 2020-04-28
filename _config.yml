@@ -19,16 +19,17 @@ avatar: https://sebasgverde.github.io/images/profile.jpg
 footer-links:
   dribbble:
   email:
-  facebook: sebasmusica
   flickr:
   github: sebasgverde
-  instagram: sebasgverde
   linkedin: sebasgverde
+  orcid: 0000-0002-2801-9315
+  youtube: channel/UCI7GUA0TNB0OKZSDjSv-itg # channel/<your_long_string> or user/<user-name>
+  instagram: sebasgverde
+  facebook: dyampra
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCI7GUA0TNB0OKZSDjSv-itg # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
