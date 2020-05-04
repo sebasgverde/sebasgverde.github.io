@@ -4,7 +4,7 @@ title:
 permalink: /bio/
 ---
 
-Research Interests: Machine Learning, Music DSP, Parallel and Distributed Computing, Computer Music, Logic, Formal Systems, among others.
+Research Interests: Machine Learning, Computer Music, Music DSP, Parallel and Distributed Computing, Logic, Formal Systems, among others.
 
 I grew up in the wild but interesting city of Medellin (Colombia). Since young my curiosity made me always curious about how things work, therefore was easy and natural to fall in love with science and engineering. At the same time, thanks to the powerful progressions and virtuous voices, soon I fall in love with rock and metal and later, with music in general.
 
@@ -18,4 +18,4 @@ At this point, however, there was this feeling of being living a double life, co
 
 With the [paper](https://www.slideshare.net/slideshow/embed_code/key/3RlggZsYZkl8Eh) (still in publishing process) entitled "Generative Deep Recurrent Networks applied to symbolic music composition", I became a M.Sc in Engineering (machine learning), but also, while making the state of the art, an article from a technology virtual magazine appeared in my email, it was about a company on the other side of the world making music with AI called AIVA, which at that moment I didn't know, would be my next adventure.
 
-Right now I am working in Luxembourg as Research And Development Engineer in ([AIVA Technologies](https://www.aiva.ai/about)), the first AI recognized as a composer by an authors’ right society, where I adapt and reapply proven methodologies from domains such as natural language processing and Computer vision to music classification and composition problems as well as develop novel solutions to unsolved problems using machine learning.
+Right now I am working in Luxembourg as Research And Development Engineer in [AIVA Technologies](https://www.aiva.ai/about), the first AI recognized as a composer by an authors’ right society, where I adapt and reapply proven methodologies from domains such as natural language processing and Computer vision to music classification and composition problems as well as develop novel solutions to unsolved problems using machine learning.
