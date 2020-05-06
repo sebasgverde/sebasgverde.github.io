@@ -1,6 +1,7 @@
 
 <ul class="posts">
    <p>
+   <a href="https://www.scimagojr.com/journalsearch.php?q=26874&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=26874" alt="SCImago Journal &amp; Country Rank"  /></a>       
    <div class="pub">
    <a href='https://doi.org/10.1016/j.buildenv.2020.106805' target="_blank"  style="font-size: 25px; text-decoration: none">Automatic detection of building typology using deep learning methods on street level images</a>
    <br/>
