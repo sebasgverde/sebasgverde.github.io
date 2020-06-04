@@ -2,18 +2,19 @@
 <ul class="posts">
 
   <script type="text/javascript">
-    var arxiv_authorid = "garciavalencia_s_1";
-    var arxiv_format = "arxiv";
-    var arxiv_includeSummary = 1;
-    <!-- another arxiv_format called "pretty" which is more for a sidebar, whatever
-    different options. See https://arxiv.org/help/myarticles  -->
+  var arxiv_authorid = "garciavalencia_s_1";
+  var arxiv_format = "arxiv";
+  var arxiv_includeSummary = 1;
+
+  <!-- another arxiv_format called "pretty" which is more for a sidebar, whatever
+  different options. See https://arxiv.org/help/myarticles  -->
   </script>
   <style type="text/css">
-    div.arxivfeed {margin-bottom: 5px; width:700px;}
+  div.arxivfeed {margin-bottom: 5px; width:700px;}
   </style>
   <script type="text/javascript" src="https://arxiv.org/js/myarticles.js"></script>
   <div id="arxivfeed"></div>
-  
+
    <p>
    <a href="https://www.scimagojr.com/journalsearch.php?q=26874&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=26874" alt="SCImago Journal &amp; Country Rank"  /></a>       
    <div class="pub">
