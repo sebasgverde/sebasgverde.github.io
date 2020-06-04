@@ -5,7 +5,7 @@
   var arxiv_authorid = "garciavalencia_s_1";
   var arxiv_format = "arxiv";
   // var arxiv_max_entries = 5;
-  // var arxiv_includeSummary = 1;
+  var arxiv_includeSummary = 1;
   // // this is only for "pretty" format which is more for a sidebar
   // arxiv_bg_color = 222222;
   // arxiv_border_color = 333333;
