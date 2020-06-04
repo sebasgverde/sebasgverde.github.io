@@ -9,8 +9,8 @@
   // arxiv_bg_color = 222222;
   // arxiv_border_color = 333333;
   // arxiv_entry_color = FFFFFF;
-  <!-- another arxiv_format called "pretty" which is more for a sidebar, whatever
-  different options. See https://arxiv.org/help/myarticles  -->
+  // another arxiv_format called "pretty" which is more for a sidebar, whatever
+  // different options. See https://arxiv.org/help/myarticles
   </script>
   <style type="text/css">
   div.arxivfeed {margin-bottom: 5px; width:700px;}
