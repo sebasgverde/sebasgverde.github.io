@@ -2,38 +2,18 @@
 <ul class="posts">
 
   <script type="text/javascript">
-  var arxiv_authorid = "garciavalencia_s_1";
-  var arxiv_format = "arxiv";
-  // var arxiv_max_entries = 5;
-  var arxiv_includeSummary = 1;
-  // // this is only for "pretty" format which is more for a sidebar
-  // arxiv_bg_color = 222222;
-  // arxiv_border_color = 333333;
-  // arxiv_entry_color = FFFFFF,
+    var arxiv_authorid = "garciavalencia_s_1";
+    var arxiv_format = "arxiv";
+    var arxiv_includeSummary = 1;
+    <!-- another arxiv_format called "pretty" which is more for a sidebar, whatever
+    different options. See https://arxiv.org/help/myarticles  -->
   </script>
   <style type="text/css">
-  div.arxivfeed {margin-bottom: 5px; width:700px;}
+    div.arxivfeed {margin-bottom: 5px; width:700px;}
   </style>
-  <script type="text/javascript" src="https://arxiv.org/js/myarticles.js">
-  </script>
+  <script type="text/javascript" src="https://arxiv.org/js/myarticles.js"></script>
   <div id="arxivfeed"></div>
-
-  <p>
-  <div class="pub">
-  <a href='https://arxiv.org/abs/2006.02217' target="_blank"  style="font-size: 25px; text-decoration: none">Cross entropy as objective function for music generative models</a>
-  <br/>
-   The election of the function to optimize when training a machine learning model is very important since this is which lets the model learn. It is not trivial since there are many options, each for different purposes. In the case of sequence generation of text, cross entropy is a common option because of its capability to quantify the predictive behavior of the model. In this paper, we test the validity of cross entropy for a music generator model ... <a href='https://arxiv.org/abs/2006.02217' target="_blank">[Read more]</a>
-  </div>
-  </p>
-
-  <p>
-  <div class="pub">
-  <a href='https://arxiv.org/abs/2005.09406' target="_blank"  style="font-size: 25px; text-decoration: none">Embeddings as representation for symbolic music</a>
-  <br/>
-   A representation technique that allows encoding music in a way that contains musical meaning would improve the results of any model trained for computer music tasks like generation of melodies and harmonies of better quality. The field of natural language processing has done a lot of work in finding a way to capture the semantic meaning of words and sentences, and word embeddings have successfully shown the capabilities for such a task. In this paper, we experiment with embeddings to represent musical notes ... <a href='https://arxiv.org/abs/2005.09406' target="_blank">[Read more]</a>
-  </div>
-  </p>
-
+  
    <p>
    <a href="https://www.scimagojr.com/journalsearch.php?q=26874&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=26874" alt="SCImago Journal &amp; Country Rank"  /></a>       
    <div class="pub">
